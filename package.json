@@ -1,0 +1,28 @@
+{
+  "name": "OAuthSocial",
+  "version": "0.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "~0.8.1",
+    "body-parser": "*",
+    "connect-flash": "~0.1.1",
+    "connect-mongo": "^2.0.0",
+    "cookie-parser": "*",
+    "ejs": "*",
+    "express": "~4.12.3",
+    "express-session": "*",
+    "mongoose": "*",
+    "morgan": "~1.5.2",
+    "passport": "~0.2.1",
+    "passport-facebook": "~2.0.0",
+    "passport-google-oauth": "~0.2.0",
+    "passport-google-oauth2": "^0.1.6",
+    "passport-local": "~1.0.0"
+  }
+}
